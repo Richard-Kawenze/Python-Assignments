@@ -1,3 +1,5 @@
+#RICHARD MUNYWOKI KAWENZE
+#SCT211-0053/2022
 height=float(input("Please enter your height"))
 weight=int(input("Please enter your weight"))
 bmi=weight/float(height*height)
