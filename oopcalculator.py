@@ -1,3 +1,5 @@
+#RICHARD MUNYWOKI KAWENZE
+#SCT211-0053/2022
 class Calculator:
     def __init__(self):
         self.result = 0
